@@ -1,4 +1,4 @@
-<h1 align="center">E Okul Main {Newglxck}</h1>
+<h1 align="center">E Okul Main {Clay}</h1>
 <img src="https://i.hizliresim.com/ekur9b2.png" align="right" />
 
 # İndirme Linki: https://dosya.co/5f6rhuv577ez/eokul-main.zip.html
